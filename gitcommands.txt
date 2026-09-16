@@ -7,3 +7,5 @@ git config --global user.name ""    -->set the glabal username in IDE
 git config --global user.email ""    -->set the glabal email in IDE
 git remote add origin https://github.com/Vardan1901/Github-for-DevOps.git  --set the repo on IDE
 git push origin master   -->create a branch master on gitgub and push
+git remote set-url origin   --> apply another url of another repo
+git pull   -->  to get the code chanegs on gitub form github to local system
