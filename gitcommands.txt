@@ -9,3 +9,4 @@ git remote add origin https://github.com/Vardan1901/Github-for-DevOps.git  --set
 git push origin master   -->create a branch master on gitgub and push
 git remote set-url origin   --> apply another url of another repo
 git pull   -->  to get the code chanegs on gitub form github to local system
+this is sample line
